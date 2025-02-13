@@ -1,0 +1,9 @@
+llama-index
+sqlalchemy
+ipython
+plotly
+python-dotenv
+streamlit
+pandas
+numpy
+openai
