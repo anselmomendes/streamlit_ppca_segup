@@ -22,6 +22,7 @@ llama-index-question-gen-openai==0.3.0
 llama-index-readers-file==0.4.5
 llama-index-readers-llama-parse==0.4.0
 sqlalchemy
+psycopg2
 ipython
 plotly
 python-dotenv
