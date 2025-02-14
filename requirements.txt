@@ -7,7 +7,7 @@ llama-index-embeddings-adapter==0.2.2
 llama-index-embeddings-huggingface==0.5.1
 llama-index-embeddings-openai==0.3.1
 llama-index-experimental==0.3.1
-llama-index-finetuning==0.3.0
+llama-index-finetuning==0.2.0
 llama-index-indices-managed-llama-cloud==0.6.4
 llama-index-legacy==0.9.48.post4
 llama-index-llms-groq==0.3.1
