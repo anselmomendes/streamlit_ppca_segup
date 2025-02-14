@@ -248,7 +248,6 @@ python-nvd3==0.16.0
 python-slugify==8.0.4
 pytz==2024.2
 PyWavelets==1.6.0
-pywin32==308
 PyYAML==6.0.2
 pyzmq==26.2.0
 redshift-connector==2.1.5
