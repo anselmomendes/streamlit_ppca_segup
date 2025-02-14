@@ -1,5 +1,6 @@
 llama-index
 llama-index-experimental
+llama-index-llms-groq
 sqlalchemy
 ipython
 plotly
