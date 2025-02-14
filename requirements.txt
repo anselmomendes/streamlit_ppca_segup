@@ -1,6 +1,6 @@
 llama-cloud==0.1.11
 llama-index==0.12.12
-llama-index-agent-openai==0.3.4
+llama-index-agent-openai==0.4.5
 llama-index-cli==0.3.1
 llama-index-core==0.12.16.post1
 llama-index-embeddings-adapter==0.2.2
