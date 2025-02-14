@@ -1,4 +1,5 @@
 llama-index
+llama-index-llms-openai
 sqlalchemy
 ipython
 plotly
